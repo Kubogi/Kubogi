@@ -7,3 +7,4 @@
 ### Writing
 I write about my coding experiences here (please read !!):
 - 📝 Blog: https://kubogi.github.io
+- Check out my new post: [When does vibe coding actually work?](https://kubogi.github.io/2025/12/28/vibe-coding.html)
