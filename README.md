@@ -7,4 +7,6 @@
 ### Writing
 I write about my coding experiences here (please read !!):
 - 📝 Blog: https://kubogi.github.io
-- Check out my new posts: [When does vibe coding actually work?](https://kubogi.github.io/2025/12/28/vibe-coding.html), [Using Python to win a JavaScript contest](https://kubogi.github.io/2025/12/28/cs1101s-sound.html)
+- Check out my new posts:
+   - [When does vibe coding actually work?](https://kubogi.github.io/2025/12/28/vibe-coding.html)
+   - [Using Python to win a JavaScript contest](https://kubogi.github.io/2026/01/06/cs1101s-sound.html)
