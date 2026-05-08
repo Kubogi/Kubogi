@@ -6,7 +6,16 @@ Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rai
 
 Currently building a 2D rhythm game in Unity that mixes movement mechanics with rhythm gameplay. (More soon!)
 
-### Writing
+## Featured Projects
+
+### [Certificate Management System](https://github.com/Kubogi/certificate-management-docs)
+A full-stack certificate management platform for an educational institution. The repository contains architecture and engineering documentation only
+(the production codebase is closed source).
+
+### [CS1101S MIDI to Source pipeline](https://github.com/Kubogi/cs1101s-midi-to-source)
+A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest.
+
+## Writing
 I write about my silly projects here:
 - [When does vibe coding actually work?](https://kubogi.github.io/2025/12/28/vibe-coding.html)
 - [Using Python to win a JavaScript contest](https://kubogi.github.io/2026/01/06/cs1101s-sound.html)
