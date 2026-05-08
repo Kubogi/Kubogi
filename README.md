@@ -1,7 +1,9 @@
 ## Ciallo～(∠・ω< )⌒☆
 
 Year 1 CS student at NUS. I build full-stack projects, do competitive programming, and occasionally write code that does something weird and creative.
+
 Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rainboy). ICPC participant. ex-Olympiad competitor.
+
 Currently working on a Unity game (more soon!).
 
 ### Writing
