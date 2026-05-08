@@ -4,16 +4,18 @@ Year 1 CS student at NUS. I build full-stack projects, do competitive programmin
 
 Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rainboy) • ICPC participant • Silver Medalist in VOI 2024 & VOAI 2025
 
-Currently building a 2D rhythm game in Unity that mixes movement mechanics with rhythm gameplay. (More soon!)
-
-## Featured Projects
+## Projects
 
 ### [Certificate Management System](https://github.com/Kubogi/certificate-management-docs)
-A full-stack certificate management platform for an educational institution. The repository contains architecture and engineering documentation only
-(the production codebase is closed source).
+A full-stack certificate management platform for an educational institution, featuring a public verification portal, role-based admin dashboard, and self-hosted VPS deployment.
+
+The repository contains architecture and engineering documentation only (the production codebase is closed source).
 
 ### [CS1101S MIDI to Source pipeline](https://github.com/Kubogi/cs1101s-midi-to-source)
 A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest.
+
+### Rythmus
+A 2D rhythm game in Unity/C# that mixes movement mechanics with rhythm gameplay. Stay tuned!
 
 ## Writing
 I write about my silly projects here:
