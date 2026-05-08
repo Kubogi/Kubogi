@@ -7,7 +7,7 @@ Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rai
 ## Projects
 
 ### [Certificate Management System](https://github.com/Kubogi/certificate-management-docs)
-Solo-built a full-stack certificate management platform for an educational institution, featuring a public verification portal, admin dashboard, and self-hosted deployment.
+Designed, built, and deployed a full-stack certificate management platform used by 25+ educational institutions, featuring a public verification portal, admin dashboard, and self-hosted deployment.
 
 Repository contains architecture and engineering documentation only (the production codebase is closed source).
 
