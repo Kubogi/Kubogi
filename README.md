@@ -7,12 +7,12 @@ Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rai
 ## Projects
 
 ### [Certificate Management System](https://github.com/Kubogi/certificate-management-docs)
-A full-stack certificate management platform for an educational institution, featuring a public verification portal, role-based admin dashboard, and self-hosted VPS deployment.
+Solo-built a full-stack certificate management platform for an educational institution, featuring a public verification portal, admin dashboard, and self-hosted deployment.
 
-The repository contains architecture and engineering documentation only (the production codebase is closed source).
+Repository contains architecture and engineering documentation only (the production codebase is closed source).
 
 ### [CS1101S MIDI to Source pipeline](https://github.com/Kubogi/cs1101s-midi-to-source)
-A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest (I actually won the contest!).
+A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest (I actually won!).
 
 ### Rythmus
 A 2D rhythm game in Unity/C# that mixes movement mechanics with rhythm gameplay. Stay tuned!
