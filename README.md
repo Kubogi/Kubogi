@@ -12,7 +12,7 @@ A full-stack certificate management platform for an educational institution, fea
 The repository contains architecture and engineering documentation only (the production codebase is closed source).
 
 ### [CS1101S MIDI to Source pipeline](https://github.com/Kubogi/cs1101s-midi-to-source)
-A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest.
+A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest (I actually won the contest!).
 
 ### Rythmus
 A 2D rhythm game in Unity/C# that mixes movement mechanics with rhythm gameplay. Stay tuned!
