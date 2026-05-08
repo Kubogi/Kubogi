@@ -4,7 +4,7 @@ Year 1 CS student at NUS. I build full-stack projects, do competitive programmin
 
 Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rainboy) • ICPC participant • Silver Medalist in VOI 2024 & VOAI 2025
 
-Currently building a 2D rhythm game in Unity where you dodge and hit notes by moving your character horizontally. (More soon!)
+Currently building a 2D rhythm game in Unity that mixes movement mechanics with rhythm gameplay. (More soon!)
 
 ### Writing
 I write about my silly projects here:
