@@ -14,7 +14,7 @@ Repository contains architecture and engineering documentation only (the product
 ### [CS1101S MIDI to Source pipeline](https://github.com/Kubogi/cs1101s-midi-to-source)
 A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest (I actually won!).
 
-### Rythmus
+### [Rythmus (WIP)](https://github.com/PenguinPiplup/rythmus)
 A 2D rhythm game in Unity/C# that mixes movement mechanics with rhythm gameplay. Stay tuned!
 
 ## Writing
