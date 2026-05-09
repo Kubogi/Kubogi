@@ -2,12 +2,14 @@
 
 Year 1 CS student at NUS. I build full-stack projects, do competitive programming, and occasionally write code that does something weird and creative.
 
-Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rainboy) • ICPC participant • Silver Medalist in VOI 2024 & VOAI 2025
+Codeforces peak: [1990 (Candidate Master)](http://codeforces.com/profile/not_rainboy) • Bronze Medalist, ICPC Asia Hanoi Regional 2024 (High School)
+
+I mostly use TypeScript and Python, C++ for contests, and Unity/C# for game stuff.
 
 ## Projects
 
 ### [Certificate Management System](https://github.com/Kubogi/certificate-management-docs)
-Designed, built, and deployed a full-stack certificate management platform used by 25+ educational institutions, featuring a public verification portal, admin dashboard, and self-hosted deployment.
+A full-stack certificate management platform used by 25+ educational institutions, featuring a public verification portal, admin dashboard, and self-hosted deployment.
 
 Repository contains architecture and engineering documentation only (the production codebase is closed source).
 
@@ -18,7 +20,7 @@ A small Python pipeline that converts a MIDI file into Source code for NUS CS110
 A 2D rhythm game in Unity/C# that mixes movement mechanics with rhythm gameplay. Stay tuned!
 
 ## Writing
-I write about my silly projects here:
+I write about my projects here:
 - [When does vibe coding actually work?](https://kubogi.github.io/2025/12/28/vibe-coding.html)
 - [Using Python to win a JavaScript contest](https://kubogi.github.io/2026/01/06/cs1101s-sound.html)
 - [More on my blog](https://kubogi.github.io)
