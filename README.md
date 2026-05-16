@@ -8,10 +8,15 @@ I mostly use TypeScript and Python, C++ for contests, and Unity/C# for game stuf
 
 ## Projects
 
+### [Student Cohort Management System](https://github.com/Kubogi/cohort-manager-docs)
+A full-stack school administration platform managing the complete operational lifecycle of student cohorts at a training institution.
+
+Repository contains architecture and engineering documentation only (the production codebase is closed source).
+
 ### [Certificate Management System](https://github.com/Kubogi/certificate-management-docs)
 A full-stack certificate management platform used by 25+ educational institutions, featuring a public verification portal, admin dashboard, and self-hosted deployment.
 
-Repository contains architecture and engineering documentation only (the production codebase is closed source).
+Repository contains architecture and engineering documentation only.
 
 ### [CS1101S MIDI to Source pipeline](https://github.com/Kubogi/cs1101s-midi-to-source)
 A small Python pipeline that converts a MIDI file into Source code for NUS CS1101S's sound contest (I actually won!).
